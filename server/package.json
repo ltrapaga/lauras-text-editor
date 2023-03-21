@@ -1,14 +1,12 @@
 {
   "name": "lauras-text-editor",
   "version": "1.0.0",
-  "description": "",
+  "description": "Laura's Text Editor",
   "main": "server.js",
   "scripts": {
     "server": "nodemon server.js --ignore client"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
   },
