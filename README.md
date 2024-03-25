@@ -1,8 +1,8 @@
-# Laura's Text Editor
+# ZenWrite PWA
 
 ## Description
 
-Laura's Text Editor is a single-page application that uses manifests, service workers, and IndexedDB to function similarly to a native app and meet the Progessive Web App (PWA) criteria. The application is fully functional offline and features a number of data persistence techniques in case one of the options is not supported by the browser. Visit [Laura's Text Editor](https://lauras-pwa-text-editor.herokuapp.com/) to start testing the performance of a PWA text editor!
+ZenWrite PWA is a practical text editor designed as a Progressive Web App, blending web accessibility with the robust features of offline functionality. It employs service workers, manifests, and IndexedDB to ensure reliable data persistence and seamless editing, even without an internet connection. ZenWrite is fully installable, offering the convenience of a native app and the flexibility of a web-based platform. Enjoy the straightforward, reliable editing experience with ZenWrite PWA, where your text editing needs are met with efficiency and ease.
 
 ## Table of Contents
 
@@ -21,8 +21,6 @@ The following necessary dependencies must be installed to run the application:
 
 ## Usage
 
-To use this application please visit [Laura's Text Editor](https://lauras-pwa-text-editor.herokuapp.com/)
-
 <img width="1190" alt="image" src="https://user-images.githubusercontent.com/115514660/227253925-acd2d358-b74c-49c0-a103-663815562c55.png">
 
 <img width="1434" alt="image" src="https://user-images.githubusercontent.com/115514660/227255737-a5418d9c-3bbc-4733-af11-7d29a91ad82e.png">
@@ -32,7 +30,9 @@ To use this application please visit [Laura's Text Editor](https://lauras-pwa-te
 <img width="1436" alt="image" src="https://user-images.githubusercontent.com/115514660/227256529-3c459e50-21bd-48ee-84af-6db524426f14.png">
 
 
-To use this application please visit [Laura's Text Editor](https://lauras-pwa-text-editor.herokuapp.com/)
+## Deployment History
+
+This project was previously deployed on Heroku, showcasing its full functionality in a live environment. Although it is not currently deployed, the repository contains all the necessary code and setup instructions for local deployment or future hosting.
 
 ## License
 
